@@ -10,7 +10,12 @@ mv <origen> <destino>: Mueve o renombra
 rm <archivo>: Eliminar archivo
 tree <ruta>: Muestra estructura de directorios
 find <ruta> -name: Busca archivos/directorios
-chmod +x <archivo>: Da permisos d ejecución
-
+touch <archivo>: Crear archivo
 nano miArchivo.md: editar archivo con editor Nano, para guardar Ctrl + o y luego enter y cerrar con Ctrl + x
+
+------------ 2 veces al mes ---------------------------
+sudo apt update: ver si hay actualizaciones
+apt list --upgradable: Muestra que paquetes pueden actualizarse
+sudo apt upgrade: actualizar
+-------------------------------------------------------
 
